@@ -24,3 +24,6 @@ The cards on customer insight page summarize customer purchasing behavior, captu
 - Keep premium customers engaged with exclusive bundles, limited-edition products and personalized offers that highlights quality.
 ## Conclusion
 This project provided insights into customer behavior and sales trends, helping to identify high-value cusstomer segments and opportunities to increase engagement and revenue.
+### Dashboard Screenshots
+#### Sales Page
+![Sale page] (
