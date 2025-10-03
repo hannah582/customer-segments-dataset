@@ -25,8 +25,5 @@ The cards on customer insight page summarize customer purchasing behavior, captu
 ## Conclusion
 This project provided insights into customer behavior and sales trends, helping to identify high-value cusstomer segments and opportunities to increase engagement and revenue.
 ### Dashboard Screenshots
-#### Sales Insight Page
-![Sale page] (Forage-Image/sales_insights_dashboard.png)
-#### Customer Insight Page
-![Customer page] (Forage-Image/customer_insight_dashboard.png)
+[View full dashboard] (Forage-Image/Forage-Image. pdf.pdf)
 
